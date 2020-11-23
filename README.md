@@ -1,0 +1,1 @@
+# MIPT_simpsons_resnet50
